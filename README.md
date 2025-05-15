@@ -1,6 +1,6 @@
 ### Syed Mohammed Ahmed | syedmohd2002@gmail.com
 
-# End-to-End Retail Sales Analysis and Forecasting
+# End-to-End Retail Sales Analysis & Forecasting
 
 This project presents a full ETL and analytics pipeline for analyzing and forecasting retail sales. It uses SQL, R, and Power BI to process over 10,000 transaction records, segment customers based on behavior, and forecast sales for the next six months.
 
