@@ -18,10 +18,10 @@ This project presents a full ETL and analytics pipeline for analyzing and foreca
 
 ## Folder Structure
 
-- `sql/`: SQL scripts for ETL and KPI calculation  
+- `sql/`: SQL script  
 - `r/`: R scripts for customer segmentation and forecasting  
 - `dashboard/`: Power BI dashboard 
-- `output/`: Forecast outputs and visualizations
+- `data/`: Original dataset
 
 ## Insights
 
